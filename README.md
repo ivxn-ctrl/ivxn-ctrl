@@ -1,19 +1,39 @@
-# Hi, I'm Ivan Onyeji 👋
-**Computer Science Graduate | API Security & Linux Infrastructure**
+# Hi there, I'm Ivan Onyeji 👋
 
-- 🎓 **B.Tech in Computer Science** (Cybersecurity Dissertation)
-- 📜 **Certified API Security Expert / Architect** (APIsec University)
-- ⚙️ **Focus:** Linux SysAdmin, Web Application Security, API Penetration Testing
+### ⚡ Computer Science Graduate | Linux & API Security Specialist
 
----
-
-### 🛠️ Technical Toolkit
-- **OS & Admin:** Linux (Ubuntu, Debian, Fedora), Systemd, Bash Scripting, SSH, UFW/IPTables
-- **Security & Web:** OWASP API Top 10, Burp Suite, Nmap, REST API Security, HTML/CSS/JS
-- **Networking:** TCP/IP, DNS, Web Servers (Nginx/Apache), Log Analysis
+I specialize in **Linux System Administration**, **API Security Auditing**, and **System Automation**. I focus on building reliable server setups, securing API endpoints against OWASP threats, and automating system workflows with Bash and Python.
 
 ---
 
-### 📂 Featured Repositories & Write-Ups
-- 🔒 **[API-Security-OWASP-Analysis]:** Security review & flaw mapping on REST endpoints using Burp Suite.
-- 🐧 **[Linux-Automation-Scripts]:** Custom Bash & Python scripts for log parsing and user administration.
+### 🛠️ Technical Skills
+
+- **Linux & Systems:** Fedora, Ubuntu, Debian, Systemd, Process Management, Journalctl, SSH
+- **API & AppSec:** OWASP API Top 10, REST Security, Burp Suite, Nmap, APIsec University Certified
+- **Scripting & Automation:** Bash, Python, Git/GitHub, CI/CD Workflows
+- **Networking & Web:** TCP/IP, DNS, UFW, Nginx, GitHub Pages Deployment
+
+---
+
+### 🚀 Featured Projects
+
+#### 🏠 [Noir Smart Home Automation Platform](https://noirautomations.github.io/)
+- **Live Demo:** [noirautomations.github.io](https://noirautomations.github.io/) | **Repository:** [github.com/noirautomations](https://github.com/noirautomations)
+- Architected and deployed a production-ready automated ai chatbot showcase platform hosted on GitHub Pages.
+- Managed web architecture, system documentation, and GitHub deployment pipelines.
+
+#### 🔒 API Vulnerability & Security Auditing
+- **Certifications:** APIsec Certified Expert | APIsec Certified Practitioner
+- Performed automated scans and endpoint assessments covering authentication bypasses, broken object-level authorization (BOLA), and rate-limiting enforcement.
+
+---
+
+### 📫 Connect & Contact
+
+- **Email:** [ivanonyeji@gmail.com](mailto:ivanonyeji@gmail.com)
+- **LinkedIn:** [linkedin.com/in/ivan-onyeji-6a57a91b3](https://www.linkedin.com/in/ivan-onyeji-6a57a91b3/)
+- **GitHub:** [github.com/ivxn-ctrl](https://github.com/ivxn-ctrl)
+- **Phone:** +234 705 799 9295
+- **Location:** Lagos, Nigeria (Open to 100% Remote Global Roles)
+
+---
